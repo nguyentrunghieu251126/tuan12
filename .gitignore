@@ -1,0 +1,8 @@
+﻿build/
+.dart_tool/
+.idea/
+*.iml
+*.log
+firebase_emulator/data/
+.flutter-plugins
+.flutter-plugins-dependencies
